@@ -1,0 +1,24 @@
+{
+  "name": "my-special-service",
+  "version": "1.0.0",
+  "description": "This is a basic setup (aka scaffolding) to help create, run and deploy a serverless app using Lambda w/ Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkepassport39/serverless-nodejs-primer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkepassport39/serverless-nodejs-primer/issues"
+  },
+  "homepage": "https://github.com/tkepassport39/serverless-nodejs-primer#readme",
+  "dependencies": {
+    "serverless": "^2.21.1",
+    "serverless-offline": "^6.8.0"
+  }
+}
